@@ -1,5 +1,5 @@
 learn_task() {
-  ruby .method_seed.rb
+  ruby .seed.rb
 }
 
 run_task() {
