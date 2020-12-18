@@ -1,1 +1,3 @@
-placeholder
+  require "WeaverBot"; WeaverBot::Data.download
+  require "WeaverBot"; WeaverBot::Perform.chatbot
+  require "WeaverBot"; WeaverBot::Purge.old_data
